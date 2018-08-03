@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1 style="color:Purple;">Flowers</h1>
+<h3 style="color:Red;">Flowers2</h2>
+
+<p style="color:Blue;">"There a lot of Flowers" </p>
+<p style="color:Yelow;">"My favorite Flowers is Margarita" </p>
+</body>
+</html>	
